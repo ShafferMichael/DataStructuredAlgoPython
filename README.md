@@ -1,4 +1,5 @@
 # Data Structures & Algorithms in Python
 
-- What is this for? \*
-  This repo is for myself to learn DSA in python along with familarlizing myself with tools git offers
+_What is this for?_
+
+- This repo is for myself to learn DSA in python along with familarlizing myself with tools git offers
