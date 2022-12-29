@@ -1,5 +1,7 @@
-# Data Structures & Algorithms in Python
+# 🧠 Data Structures and Algorithms in Python 
 
-_What is this for?_
+Welcome to the `DataStructuredAlgoPython` repository! Here you will find solutions to problems from [algoexpert.com](https://www.algoexpert.com/) as well as templates for popular data structures and algorithms implemented in Python.
 
-- This repo is for myself to learn DSA in python along with familarlizing myself with tools git offers
+## 💻 Solutions from algoexpert.com
+
+## 💻 Templates for various data strucutes and algorithms
