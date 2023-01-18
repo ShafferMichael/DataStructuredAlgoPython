@@ -1,1 +1,3 @@
-this is now 
+The order I am working through AlgoExpert questions is from easy to hard in default order as of January 17, 2023. 
+I have the code as it is along with notes from whatever I felt like writing down in a folder corresponding to the 
+chronological order which I finished the question. 
